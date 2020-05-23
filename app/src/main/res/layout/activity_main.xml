@@ -110,7 +110,9 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button 0">
+                android:text="Button 0"
+                    android:id="@+id/button"
+                    >
             </Button>
             <Button
                 android:layout_width="wrap_content"
